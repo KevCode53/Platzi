@@ -1,3 +1,6 @@
 [submodule "curso-asincronismo"]
 	path = curso-asincronismo
 	url = git@github.com:KevCode53/curso-asincronismo.git
+[submodule "curso-scope-clousere"]
+	path = curso-scope-clousere
+	url = git@github.com:KevCode53/curso-scope-clousere.git
